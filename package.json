@@ -1,0 +1,19 @@
+{
+  "name": "basic-node",
+  "version": "1.0.0",
+  "description": "Basic node.js",
+  "main": "index(first).js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Sergey Korolyov",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
